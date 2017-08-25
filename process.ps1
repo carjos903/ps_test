@@ -2,7 +2,7 @@
  
  # Test1
 
-Get-Process;
+Get-Process -Debug;
 
 Start-Process "Notepad.exe";
 
